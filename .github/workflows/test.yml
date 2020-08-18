@@ -10,7 +10,7 @@ jobs:
       uses: ./
       with:
         feed_url: https://hao.su/feed/
-        count: 3
+        count: 10
         readme_path: 'tests/readme.test.md'
     - name: Commit file changes
       run: |
