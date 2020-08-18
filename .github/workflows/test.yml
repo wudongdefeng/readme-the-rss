@@ -9,7 +9,7 @@ jobs:
     - name: Get RSS Feed
       uses: ./
       with:
-        feed_url: https://blog.rongying.co/feed.xml
+        feed_url: https://hao.su/feed/
         count: 3
         readme_path: 'tests/readme.test.md'
     - name: Commit file changes
