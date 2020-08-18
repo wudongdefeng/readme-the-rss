@@ -14,11 +14,11 @@ jobs:
         readme_path: 'tests/readme.test.md'
     - name: Commit file changes
       run: |
-          git config --global user.name 'kohrongying'
-          git config --global user.email 'kohrongying@gmail.com'
+          git config --global user.name 'wudongdefeng'
+          git config --global user.email '615563901@qq.com'
           git add .
           git diff --quiet --cached || git commit -m "Update README"    
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.USER_TOKEN }}
