@@ -1,5 +1,7 @@
-on: [push]
-
+on:
+  schedule:
+    # Runs every 4h
+    - cron: '0 */8 * * *'
 jobs:
   hello_world_job:
     runs-on: ubuntu-latest
@@ -9,7 +11,7 @@ jobs:
     - name: Get RSS Feed
       uses: ./
       with:
-        feed_url: https://hao.su/feed/
+        feed_url: https://fuliba2020.net/feed/
         count: 10
         readme_path: 'tests/readme.test.md'
     - name: Commit file changes
