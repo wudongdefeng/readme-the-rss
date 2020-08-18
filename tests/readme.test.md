@@ -3,7 +3,7 @@
 ### About me
 - Pronouns
 - Work
-- Passions
+- Passions 
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
