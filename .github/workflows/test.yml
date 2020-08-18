@@ -1,6 +1,6 @@
 on:
   schedule:
-    # Runs every 4h
+    # Runs every 8h
     - cron: '0 */8 * * *'
 jobs:
   hello_world_job:
