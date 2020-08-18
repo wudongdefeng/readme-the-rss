@@ -7,9 +7,9 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
-- [Learning Flutter](https://blog.rongying.co/posts/2020/08/Learning-Flutter/)
-- [README-the-RSS](https://blog.rongying.co/posts/2020/08/A-Github-Action-for-my-Blog-RSS-Feed/)
-- [Created an IG filter with PickerUI!](https://blog.rongying.co/posts/2020/08/Building-an-IG-filter-with-PickerUI/)
+- [买买买已过时，值值值才是有气质](https://hao.su/2947/)
+- [正版激活码限时赠送](https://hao.su/3578/)
+- [【限时领取兑换码】右糖 - 照片视频制作神器 ](https://hao.su/2996/)
 <!-- BLOGPOSTS:END -->
 
 ### Contact me
