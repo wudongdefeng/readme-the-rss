@@ -7,9 +7,9 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [淘宝精选商品汇总，8月24日8点更新，美团外卖会员8.8](https://fuliba2020.net/99.html)
 - [B站吹口琴的漂亮小姐姐，爱上口琴了](https://fuliba2020.net/kouqin.html)
 - [2020福利汇总第117期：最远的你是我最近的爱](https://fuliba2020.net/2020117.html)
-- [淘宝精选商品汇总，8月23日19点更新，美团外卖会员8.8，芒果TV年卡79](https://fuliba2020.net/99.html)
 - [海归硕士，91大佬爱丝寂寞人被捕](https://fuliba2020.net/aisijimoren.html)
 - [秀人1~2300期免费度盘下载](https://fuliba2020.net/xiuren.html)
 - [拨云搜索：帮你查找记忆中的小说](https://fuliba2020.net/boyunso.html)
