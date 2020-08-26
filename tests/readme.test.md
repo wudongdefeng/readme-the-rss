@@ -7,6 +7,7 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [微博爆料新的性别暴力事件，山东多地开展调查](https://fuliba2020.net/lunjian.html)
 - [优酷会员12元一年升级酷喵，电视可用](https://fuliba2020.net/kumiao.html)
 - [2020福利汇总第118期：半杯清酒醉红颜](https://fuliba2020.net/2020118.html)
 - [淘宝精选商品汇总，8月25日19点更新，美团外卖会员8元](https://fuliba2020.net/99.html)
@@ -16,7 +17,6 @@
 - [B站吹口琴的漂亮小姐姐，爱上口琴了](https://fuliba2020.net/kouqin.html)
 - [2020福利汇总第117期：最远的你是我最近的爱](https://fuliba2020.net/2020117.html)
 - [海归硕士，91大佬爱丝寂寞人被捕](https://fuliba2020.net/aisijimoren.html)
-- [秀人1~2300期免费度盘下载](https://fuliba2020.net/xiuren.html)
 <!-- BLOGPOSTS:END -->
 
 ### Contact me
