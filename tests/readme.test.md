@@ -7,9 +7,9 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [淘宝精选商品汇总，8月28日9点更新，多款大牌月饼礼盒19.9](https://fuliba2020.net/99.html)
 - [补番计划：《虫师》一起聆听未知世界的声音](https://fuliba2020.net/chongshi.html)
 - [2020福利汇总第119期：六朝霏雨](https://fuliba2020.net/2020119.html)
-- [淘宝精选商品汇总，8月27日19点更新，飞利浦无线鼠标9.9](https://fuliba2020.net/99.html)
 - [百度网盘下载辅助新工具Kinhdown+Pandownload修改版复活](https://fuliba2020.net/kinhdown.html)
 - [微博爆料新的性别暴力事件，山东多地开展调查](https://fuliba2020.net/lunjian.html)
 - [优酷会员12元一年升级酷喵，电视可用](https://fuliba2020.net/kumiao.html)
