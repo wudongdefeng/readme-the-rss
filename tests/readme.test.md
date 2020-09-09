@@ -7,9 +7,9 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [淘宝精选商品汇总，9月9日9点更新](https://fuliba2020.net/99.html)
 - [微博吃瓜：淄博理光董事长杨光金当着孙女的面性侵儿媳](https://fuliba2020.net/liguang.html)
 - [2020福利汇总第125期：春](https://fuliba2020.net/2020125.html)
-- [淘宝精选商品汇总，9月8日19点更新](https://fuliba2020.net/99.html)
 - [HBO出品：2020最新科幻剧集《异星灾变》第1-3集](https://fuliba2020.net/raised-by-wolves.html)
 - [一封来自16年前超火网站的求救信](https://fuliba2020.net/18p.html)
 - [2020福利汇总第124期：宁静的夏天](https://fuliba2020.net/2020124.html)
