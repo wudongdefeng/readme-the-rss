@@ -7,9 +7,9 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [淘宝精选商品汇总，9月17日9点更新，苏宁GAP、雅戈尔、马克华菲全2折](https://fuliba2020.net/99.html)
 - [Telegram中文搜索](https://fuliba2020.net/telegram-search.html)
 - [2020福利汇总第129期：分手总要在雨天](https://fuliba2020.net/2020129.html)
-- [淘宝精选商品汇总，9月16日9点更新，苏宁GAP、雅戈尔、马克华菲全2折](https://fuliba2020.net/99.html)
 - [京东旗下签到赚钱软件，梨涡，亲测一周多提现10块](https://fuliba2020.net/liwo.html)
 - [虎扑丰满妹子-请给我一个冰淇淋开直播了](https://fuliba2020.net/bingqilin.html)
 - [百度网盘国际版上线（需墙外使用）](https://fuliba2020.net/dubox.html)
