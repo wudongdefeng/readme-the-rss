@@ -7,8 +7,8 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [淘宝精选商品汇总，9月23日10点更新，罗马仕一拖三充电线6.9，十田LED灯泡12瓦1.8](https://fuliba2020.net/99.html)
 - [2020福利汇总第132期：最佳拍档](https://fuliba2020.net/2020132.html)
-- [淘宝精选商品汇总，9月22日19点更新，七匹狼品牌日2件2.5折](https://fuliba2020.net/99.html)
 - [J·K·罗琳的魔法世界：哈利·波特系列+神奇动物在哪里系列](https://fuliba2020.net/harry-potter.html)
 - [虎扑丰满妹子-请给我一个冰淇淋真人被偷拍，现实与照片差距有点大](https://fuliba2020.net/bingqilin.html)
 - [油管又发现宝藏，Pyo Eunji迷你裙试穿](https://fuliba2020.net/pyo-eunji.html)
