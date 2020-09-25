@@ -7,8 +7,9 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
-- [京东京鱼座音响0元购，这个简单只要30天，今晚8点上车](https://fuliba2020.net/jingyuzuo.html)
-- [淘宝精选商品汇总，9月25日9点更新](https://fuliba2020.net/99.html)
+- [白嫖喜马拉雅，付费VIP资源下载器](https://fuliba2020.net/ximalaya.html)
+- [京东京鱼座音响0元购，这个简单只要30天，今晚8点上车，卧槽没抢到](https://fuliba2020.net/jingyuzuo.html)
+- [淘宝精选商品汇总，9月25日19点更新，美的USB插座9.9](https://fuliba2020.net/99.html)
 - [斗鱼女主播蘇恩喝醉没穿内衣直播露点，米娜露奶被封](https://fuliba2020.net/suen.html)
 - [2020福利汇总第133期：叹郁孤](https://fuliba2020.net/2020133.html)
 - [HBO出品：2020最新科幻剧集《异星灾变》更新至第9集](https://fuliba2020.net/raised-by-wolves.html)
@@ -16,7 +17,6 @@
 - [UFM100.3的U选1000首音乐打包](https://fuliba2020.net/u1000.html)
 - [2020福利汇总第132期：最佳拍档](https://fuliba2020.net/2020132.html)
 - [J·K·罗琳的魔法世界：哈利·波特系列+神奇动物在哪里系列](https://fuliba2020.net/harry-potter.html)
-- [虎扑丰满妹子-请给我一个冰淇淋真人被偷拍，现实与照片差距有点大](https://fuliba2020.net/bingqilin.html)
 <!-- BLOGPOSTS:END -->
 
 ### Contact me
