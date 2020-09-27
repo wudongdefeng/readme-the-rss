@@ -7,16 +7,16 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [《今日说法》 20200926 围剿“狼乐园”（上）](https://fuliba2020.net/langleyuan.html)
+- [淘宝精选商品汇总，9月26日9点更新，青桔单车畅骑4.8，typec数据线3.8，轻便背包6.9](https://fuliba2020.net/99.html)
 - [33台词：通过台词找影片素材，视频剪辑工作者必备](https://fuliba2020.net/agilestudio.html)
 - [2020福利汇总第134期：Couch Potato](https://fuliba2020.net/2020134.html)
-- [淘宝精选商品汇总，9月26日9点更新](https://fuliba2020.net/99.html)
 - [白嫖喜马拉雅，付费VIP资源下载器，有更新](https://fuliba2020.net/ximalaya.html)
 - [京东京鱼座音响0元购，这个简单只要30天，今晚8点上车，卧槽没抢到](https://fuliba2020.net/jingyuzuo.html)
 - [斗鱼女主播蘇恩喝醉没穿内衣直播露点，米娜露奶被封](https://fuliba2020.net/suen.html)
 - [2020福利汇总第133期：叹郁孤](https://fuliba2020.net/2020133.html)
 - [HBO出品：2020最新科幻剧集《异星灾变》更新至第9集](https://fuliba2020.net/raised-by-wolves.html)
 - [田渊正浩自导自演的山寨版“孤独的美食家”，山岸逢花出场](https://fuliba2020.net/pred140.html)
-- [UFM100.3的U选1000首音乐打包](https://fuliba2020.net/u1000.html)
 <!-- BLOGPOSTS:END -->
 
 ### Contact me
