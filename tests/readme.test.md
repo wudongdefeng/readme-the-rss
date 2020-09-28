@@ -7,9 +7,9 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [淘宝精选商品汇总，9月28日10点更新，杜蕾斯经典延时套套39.9十个，药物延时](https://fuliba2020.net/99.html)
 - [儿子带好基友和自己亲妈3p](https://fuliba2020.net/mom3p.html)
 - [《今日说法》 20200926 围剿“狼乐园”（上）](https://fuliba2020.net/langleyuan.html)
-- [淘宝精选商品汇总，9月27日19点更新，触屏手套6.9，华为NM卡27](https://fuliba2020.net/99.html)
 - [33台词：通过台词找影片素材，视频剪辑工作者必备](https://fuliba2020.net/agilestudio.html)
 - [2020福利汇总第134期：Couch Potato](https://fuliba2020.net/2020134.html)
 - [白嫖喜马拉雅，付费VIP资源下载器，有更新](https://fuliba2020.net/ximalaya.html)
