@@ -8,15 +8,15 @@
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
 - [油管鉴赏系列：日本写真女星“森咲智美”的户外日常](https://fuliba2020.net/tomomi-morisaki.html)
+- [淘宝精选商品汇总，10月3日18点更新](https://fuliba2020.net/99.html)
 - [男人一定要加强锻炼，说不定随时就有一场决斗](https://fuliba2020.net/douou.html)
 - [2020福利汇总第137期：玉簪记](https://fuliba2020.net/2020137.html)
-- [淘宝精选商品汇总，10月2日19点更新](https://fuliba2020.net/99.html)
+- [HBO出品：2020最新科幻剧集《异星灾变》第一季完结](https://fuliba2020.net/raised-by-wolves.html)
 - [推荐八卦杂文公众号：往事叉烧+万小刀](https://fuliba2020.net/wangshichashao.html)
 - [买过苏宁SUPER的来领20元津贴了，亲测20多元商品付1元](https://fuliba2020.net/super2020.html)
 - [南京交院女子遭三男子迷奸 警方通报：犯罪嫌疑人全部抓获](https://fuliba2020.net/nanjingjiaoyuan.html)
 - [2020福利汇总第136期：星尘](https://fuliba2020.net/2020136.html)
 - [网络女主播自曝出轨电台主持人，缘因二人同房劳力士被掉包](https://fuliba2020.net/porsche.html)
-- [中文互联网群像：【回形针PaperClip】和 10 个批评者一块聊天](https://fuliba2020.net/pipingzhe.html)
 <!-- BLOGPOSTS:END -->
 
 ### Contact me
