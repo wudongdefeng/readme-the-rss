@@ -7,6 +7,7 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [油管鉴赏系列：日本写真女星“森咲智美”的户外日常](https://fuliba2020.net/tomomi-morisaki.html)
 - [男人一定要加强锻炼，说不定随时就有一场决斗](https://fuliba2020.net/douou.html)
 - [2020福利汇总第137期：玉簪记](https://fuliba2020.net/2020137.html)
 - [淘宝精选商品汇总，10月2日19点更新](https://fuliba2020.net/99.html)
@@ -16,7 +17,6 @@
 - [2020福利汇总第136期：星尘](https://fuliba2020.net/2020136.html)
 - [网络女主播自曝出轨电台主持人，缘因二人同房劳力士被掉包](https://fuliba2020.net/porsche.html)
 - [中文互联网群像：【回形针PaperClip】和 10 个批评者一块聊天](https://fuliba2020.net/pipingzhe.html)
-- [斗鱼直播开房，阿力哥9527&爱老师PhD](https://fuliba2020.net/kaifang.html)
 <!-- BLOGPOSTS:END -->
 
 ### Contact me
