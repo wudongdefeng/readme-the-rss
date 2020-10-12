@@ -7,7 +7,8 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
-- [淘宝精选商品汇总，10月12日9点更新](https://fuliba2020.net/99.html)
+- [2020福利汇总第142期：零 零 发](https://fuliba2020.net/2020142.html)
+- [淘宝精选商品汇总，10月12日19点更新，小米毛巾9.9，口腔清新喷雾5.9](https://fuliba2020.net/99.html)
 - [网友分享十一期间发生的德国骨科故事](https://fuliba2020.net/dggk.html)
 - [在线求助：自己名字的域名被人注册成黄色网站了怎么办](https://fuliba2020.net/liulicheng.html)
 - [2020福利汇总第141期：海边的梦](https://fuliba2020.net/2020141.html)
@@ -16,7 +17,6 @@
 - [2020福利汇总第140期：海の形](https://fuliba2020.net/2020140.html)
 - [线下大福利，微保免费洗牙又来了！](https://fuliba2020.net/xiya2020.html)
 - [BBC高分纪录片《减肥十律》假期结束开始减肥](https://fuliba2020.net/losing-weight.html)
-- [怀旧剧场：那些和青春有关的日子，城市印象电影《孔雀》](https://fuliba2020.net/peacock.html)
 <!-- BLOGPOSTS:END -->
 
 ### Contact me
