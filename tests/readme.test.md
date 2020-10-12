@@ -7,8 +7,8 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [淘宝精选商品汇总，10月12日9点更新](https://fuliba2020.net/99.html)
 - [网友分享十一期间发生的德国骨科故事](https://fuliba2020.net/dggk.html)
-- [淘宝精选商品汇总，10月11日19点更新](https://fuliba2020.net/99.html)
 - [在线求助：自己名字的域名被人注册成黄色网站了怎么办](https://fuliba2020.net/liulicheng.html)
 - [2020福利汇总第141期：海边的梦](https://fuliba2020.net/2020141.html)
 - [B站UP主教你街头小吃做法：冷吃串串，酱香饼，鸭血粉丝汤等](https://fuliba2020.net/pingping.html)
