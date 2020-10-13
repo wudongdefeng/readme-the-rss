@@ -7,8 +7,8 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [淘宝精选商品汇总，10月13日9点更新，小米毛巾9.9，口腔清新喷雾5.9，护眼台灯19.9](https://fuliba2020.net/99.html)
 - [2020福利汇总第142期：零 零 发](https://fuliba2020.net/2020142.html)
-- [淘宝精选商品汇总，10月12日19点更新，小米毛巾9.9，口腔清新喷雾5.9](https://fuliba2020.net/99.html)
 - [网友分享十一期间发生的德国骨科故事](https://fuliba2020.net/dggk.html)
 - [在线求助：自己名字的域名被人注册成黄色网站了怎么办](https://fuliba2020.net/liulicheng.html)
 - [2020福利汇总第141期：海边的梦](https://fuliba2020.net/2020141.html)
