@@ -7,8 +7,9 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [捷径库：实用苹果快捷指令大全，iPhone手机的最强软件](https://fuliba2020.net/jiejingku.html)
 - [2020福利汇总第143期：问情诗](https://fuliba2020.net/2020143.html)
-- [淘宝精选商品汇总，10月14日9点更新](https://fuliba2020.net/99.html)
+- [淘宝精选商品汇总，10月14日19点更新](https://fuliba2020.net/99.html)
 - [退休老师儿童网站发布涉“黄”故事，被教育局约谈](https://fuliba2020.net/shenhuagushi.html)
 - [2020福利汇总第142期：零 零 发](https://fuliba2020.net/2020142.html)
 - [网友分享十一期间发生的德国骨科故事](https://fuliba2020.net/dggk.html)
@@ -16,7 +17,6 @@
 - [2020福利汇总第141期：海边的梦](https://fuliba2020.net/2020141.html)
 - [B站UP主教你街头小吃做法：冷吃串串，酱香饼，鸭血粉丝汤等](https://fuliba2020.net/pingping.html)
 - [网站可用性检测，挂了吗，网友们查询的内容有点怪](https://fuliba2020.net/gualemang.html)
-- [2020福利汇总第140期：海の形](https://fuliba2020.net/2020140.html)
 <!-- BLOGPOSTS:END -->
 
 ### Contact me
