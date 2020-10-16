@@ -7,9 +7,9 @@
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [淘宝精选商品汇总，10月16日8点更新，鞋油2.7](https://fuliba2020.net/99.html)
 - [现实版银滩海鸡，400一次](https://fuliba2020.net/haiji.html)
 - [创造者日报 ：每天发现有趣的产品，36氪Next的替代网站](https://fuliba2020.net/creatorsdaily.html)
-- [淘宝精选商品汇总，10月15日20点更新，鞋油2.7，免钉胶2.9](https://fuliba2020.net/99.html)
 - [捷径库：实用苹果快捷指令大全，iPhone手机的最强软件](https://fuliba2020.net/jiejingku.html)
 - [2020福利汇总第143期：问情诗](https://fuliba2020.net/2020143.html)
 - [退休老师儿童网站发布涉“黄”故事，被教育局约谈](https://fuliba2020.net/shenhuagushi.html)
